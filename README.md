@@ -4,6 +4,8 @@ My name is Ben Maharjan and I have just started my journey to become a programme
 
 Currently I have joined the Scool of Code and am hoping to learn as much as possible to help me on my journey.
 
+test 1
+
 <!--
 **BenMaharjan/BenMaharjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
