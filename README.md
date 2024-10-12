@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-My name is Ben Maharjan and I have just started my journey to become a programmer.
-
-Currently I have joined the Scool of Code and am hoping to learn as much as possible to help me on my journey.
-
-test 1
-test 2
-test 3
+My name is Ben Maharjan and I am a motivated junior fullstack developer transitioning
+from a successful career as a business owner. Afterselling
+my business, I am eager to persue my dream career as a
+software developer and have recently completed an
+intensive coding bootcamp, gaining proficiency in both
+front-end and back-end development. I am passionate
+about creating practical, efficient, user-friendly
+applications and eager to contribute throughout the
+development lifecycle.
 
 
 <!--
