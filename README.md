@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Ben Maharjan and I am a motivated junior fullstack developer transitioning
+My name is ##Ben Maharjan and I am a motivated junior fullstack developer transitioning
 from a successful career as a business owner. After selling
 my business, I am eager to persue my dream career as a 
 software developer and have recently completed an
