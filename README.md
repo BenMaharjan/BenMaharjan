@@ -1,6 +1,8 @@
+![Customer Relations LinkedIn Career Page Background in Emerald Aspirational Elegance Style](https://github.com/user-attachments/assets/cc37f80c-d1e6-4cfe-95b0-951fc32c7ca4)
+
 ## Hi there 👋
 
-My name is ##Ben Maharjan and I am a motivated junior fullstack developer transitioning
+My name is Ben Maharjan and I am a motivated junior fullstack developer transitioning
 from a successful career as a business owner. After selling
 my business, I am eager to persue my dream career as a 
 software developer and have recently completed an
