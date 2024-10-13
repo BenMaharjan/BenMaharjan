@@ -1,4 +1,5 @@
-![Customer Relations LinkedIn Career Page Background in Emerald Aspirational Elegance Style](https://github.com/user-attachments/assets/cc37f80c-d1e6-4cfe-95b0-951fc32c7ca4)
+![github-header-image (1)](https://github.com/user-attachments/assets/368dc267-8014-4ee8-b787-ea67c9a14ff9)
+
 
 ## Hi there 👋
 
@@ -11,6 +12,8 @@ front-end and back-end development. I am passionate
 about creating practical, efficient, user-friendly
 applications and eager to contribute throughout the
 development lifecycle.
+
+[LinkedIn Profile](https://www.linkedin.com/in/ben-maharjan-356323313/)
 
 
 <!--
