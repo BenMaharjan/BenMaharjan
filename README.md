@@ -15,6 +15,11 @@ development lifecycle.
 
 [LinkedIn Profile](https://www.linkedin.com/in/ben-maharjan-356323313/)
 
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,express,figma,git,github,mysql,nextjs,nodejs,npm,postgres,postman,react,supabase,ts,vite,vitest,vscode,wasm)](https://skillicons.dev)
+
+
 
 <!--
 **BenMaharjan/BenMaharjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
