@@ -1,4 +1,4 @@
-![github-header-image (1)](https://github.com/BenMaharjan/fireplace-palace/blob/main/public/assets/Fireplace%20Palace%20Banner.png))
+![github-header-image (1)](https://github.com/user-attachments/assets/368dc267-8014-4ee8-b787-ea67c9a14ff9)
 
 
 ## Hi there 👋
